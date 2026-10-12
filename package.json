@@ -4,16 +4,26 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+<<<<<<< HEAD
     "build": "next build --webpack",
+=======
+    "build": "next build",
+>>>>>>> 20c099cb523c3b2cb1ba99d76966c307a772f654
     "start": "next start",
     "lint": "eslint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@tailwindcss/postcss": "^4.3.3",
     "axios": "^1.20.0",
     "lucide-react": "^1.54.0",
     "next": "16.4.0",
     "postcss": "^8.5.29",
+=======
+    "axios": "^1.20.0",
+    "lucide-react": "^1.54.0",
+    "next": "16.4.0",
+>>>>>>> 20c099cb523c3b2cb1ba99d76966c307a772f654
     "react": "19.3.0",
     "react-dom": "19.3.0",
     "zustand": "^5.0.15"
@@ -25,7 +35,14 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.4.0",
+<<<<<<< HEAD
     "tailwindcss": "^4.3.3",
     "typescript": "^5"
   }
 }
+=======
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
+>>>>>>> 20c099cb523c3b2cb1ba99d76966c307a772f654
